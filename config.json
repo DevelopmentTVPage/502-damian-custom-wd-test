@@ -1,0 +1,15 @@
+{
+    "title": "Damian Customization 4",
+    "baseURL": "https:\/\/damian.custom.wd.test",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "wd.test"
+    }
+}
